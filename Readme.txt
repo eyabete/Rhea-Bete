@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Hello! This is my electronic portfolio. 
 
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Feel free to look around and see if we can work together on meaningful projects!
